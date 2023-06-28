@@ -59,8 +59,8 @@ mutation updateFee($feeInput: FeeInput!, $updateFeesId: String!) {
 `;
 
 export const GET_FEES_BY_CLASS = gql`
-query getFeeByClass($classId: String!) {
-  getFeeByClass(classId: $classId) {
+query getFeeByClass($feeByClassInput: FeeByClassInput!) {
+  getFeeByClass(feeByClassInput: $feeByClassInput) {
     id
     name
   }
