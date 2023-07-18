@@ -83,7 +83,7 @@ const Add = ({ student, refetch }: Props) => {
                         key="fee"
                         rules={{ required: true }}
                         render={({ field: { onChange, value } }) => {
-                            if (feesData?.data && feesData.data.getFeeByClass.length === 0) return (
+                            if (!feesData?.data || feesData?.data && feesData.data.getFeeByClass.length === 0) return (
                                 <Select
                                     label="Select Fee"
                                     color="green"
