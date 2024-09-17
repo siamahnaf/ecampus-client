@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100">
 
-# Ecampus Server
+# Ecampus Client
 A school management web application frontend part. School management software with payment gateway and many other features. It is only the frontend website build with nextjs, reactjs, tailwindcss, urql, graphql.
 
 ## Run Locally
