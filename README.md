@@ -1,4 +1,8 @@
-<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dub0dpenl/image/upload/v1731780157/Personal%20Logo/logo-white_e6fujz.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dub0dpenl/image/upload/v1731780152/Personal%20Logo/logo-dark_qqwrqu.png">
+  <img alt="Siam Ahnaf" src="https://res.cloudinary.com/dub0dpenl/image/upload/v1731780152/Personal%20Logo/logo-dark_qqwrqu.png" height="auto" width="240">
+</picture>
 
 # Ecampus Client
 A school management web application frontend part. School management software with payment gateway and many other features. It is only the frontend website build with nextjs, reactjs, tailwindcss, urql, graphql.
@@ -24,7 +28,11 @@ A school management web application frontend part. School management software wi
 <img src="https://lh3.googleusercontent.com/d/1GTNFYoW8YfRF8AM5Is6rKsIB4No1ImJ_" width="34px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1kPoywoLU5K4wbJyToKeB-zjVLgIHnkx6" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1zquFI2JBL5KaJVxhyWFh1NhBy6_8bTkl" width="135px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1lmIwVWT-LhcovOkCj4CF8paBGMeP9BNE" width="225px" height="30px" />
 
 ## Webinuxs
-<img src="https://res.cloudinary.com/dub0dpenl/image/upload/v1726562110/Personal/xbetf83o2drangioe1ia.png" width="100" height="100">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dub0dpenl/image/upload/v1732166724/Webinuxs/WebinuxsLogo1_Recovered_v9ganh.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dub0dpenl/image/upload/v1732166723/Webinuxs/WebinuxsLogo2_Recovered_ynnf90.png">
+  <img alt="Siam Ahnaf" src="https://res.cloudinary.com/dub0dpenl/image/upload/v1732166723/Webinuxs/WebinuxsLogo2_Recovered_ynnf90.png" height="auto" width="140">
+</picture> <br/>
 Explore Webinuxs, where we bring your web and mobile app applications to life at competitive prices. Our dedicated team is committed to delivering exceptional quality and innovative web and mobile application as your needs.
 
 ## Support
